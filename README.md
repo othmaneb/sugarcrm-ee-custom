@@ -1,2 +1,2 @@
 # sugarcrm-ee-custom
-Easy Exhibit sugarCRM version upgrade plus custom features, tables, modules, fields ...
+SugarCRM Customization
